@@ -10,6 +10,7 @@ local: also add a line here locally and then commit, see what happens.
 
 
 remote: add a line here. waiting for local change.
+remote: add a line again. see if "2 behind" appear on local.
 
 
 
