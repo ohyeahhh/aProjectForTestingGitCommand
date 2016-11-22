@@ -8,5 +8,10 @@ romote: make a new file here to create a change on remote
 local: also add a line here locally and then commit, see what happens.
 
 
+local: respond to remote, change something here. 
+
+local: pull ...
+
+
 
 
