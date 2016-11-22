@@ -3,7 +3,7 @@ make a new file here to create a change on remote
 
 remote: add a line on remote to trigger a conflict
 
-romote: make a new file here to create a change on remote
+remote: make a new file here to create a change on remote
 
 local: also add a line here locally and then commit, see what happens.
 
@@ -11,6 +11,11 @@ local: also add a line here locally and then commit, see what happens.
 local: respond to remote, change something here. 
 
 local: pull ...
+
+
+
+remote: add a line here. waiting for local change.
+remote: add a line again. see if "2 behind" appear on local.
 
 
 
