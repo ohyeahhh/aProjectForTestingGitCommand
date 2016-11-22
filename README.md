@@ -1,0 +1,2 @@
+# aProjectForTestingGitCommand
+aProjectForTestingGitCommand
